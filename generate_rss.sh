@@ -7,7 +7,7 @@ URL="https://www.backerkit.com/c/greater-than-games/spirit-island-nature-incarna
 curl -o mkfeed.py "https://raw.githubusercontent.com/dburic/mkfeed/master/mkfeed.py"
 sha256sum -c <<<"e043624cfa0005559d0a37d697af7c00fd7e9388cac70aa3329748b48e38ff0a  mkfeed.py"
 chmod +x mkfeed.py
-#sed -i "" 's/print f.make_feed()/print(f.make_feed())/; s/python/python3/' mkfeed.py
+patch <mkfeed.py.patch
 
 curl $URL | ./mkfeed.py \
     --pattern-item '<div class="relative">{*}<a{*}href="{%}"{*}>{*}<div class="flex-auto ">{%}</div>' \
