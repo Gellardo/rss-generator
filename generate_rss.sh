@@ -12,6 +12,7 @@ sha256sum -c <<<"e043624cfa0005559d0a37d697af7c00fd7e9388cac70aa3329748b48e38ff0
 chmod +x mkfeed.py
 patch <mkfeed.py.patch
 
+cp index.html $OUTDIR/index.html
 curl $URL | ./mkfeed.py \
     --pattern-item '<div class="relative">{*}<a{*}href="{%}"{*}>{*}<div class="flex-auto ">{%}</div>' \
     --feed-title 'Nature Incarnate' \
@@ -19,6 +20,6 @@ curl $URL | ./mkfeed.py \
     --feed-desc 'Spirit Island Nature Incarnate Updates' \
     --item-title '{%2}' \
     --item-link "$(cut -d/ -f1,2,3 <<<$URL){%1}" \
-    --item-desc '{%2}' >$OUTDIR/my.rss
+    --item-desc '{%2}' >$OUTDIR/nature-incarnate.rss
 
 
