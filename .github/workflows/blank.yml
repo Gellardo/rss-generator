@@ -32,7 +32,13 @@ jobs:
       - name: Generate RSS-file
         run: |
             ./generate_rss.sh output
+            
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: output
+          
+      - name: Notify on failure
+        if: failure()
+        run: |
+          ecurl -d "GHA: rss-generator failed" ntfy.sh/github-qwfTj
