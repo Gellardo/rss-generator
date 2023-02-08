@@ -12,7 +12,6 @@ sha256sum -c <<<"e043624cfa0005559d0a37d697af7c00fd7e9388cac70aa3329748b48e38ff0
 chmod +x mkfeed.py
 patch <mkfeed.py.patch
 
-exit 1
 cp index.html $OUTDIR/index.html
 curl $URL | ./mkfeed.py \
     --pattern-item '<div class="relative">{*}<a{*}href="{%}"{*}>{*}<div class="flex-auto ">{%}</div>' \
