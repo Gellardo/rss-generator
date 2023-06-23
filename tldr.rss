@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+  <title>TL;DR Sec</title>
+  <link>https://tldrsec.com</link>
+  <description><![CDATA[TL;DR Sec does not have an rss feed anymore :(]]></description>
+  <item>
+   <title>[tl;dr sec] #187 - AWS Pentest Methodology, Destroyed by Breach, Awesome LLM Cybersecurity Tools</title>
+   <link>https://tldrsec.com/p/tldr-sec-187</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">An offense-focused approach to AWS pentests, companies ended by cybersecurity breaches, OSS security tools leveraging LLMs </p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-22T14:30:00.000Z">a day ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #186 - Enterprise Purple Teaming, Cloud CTFs, Code Review with LLMs</title>
+   <link>https://tldrsec.com/p/tldr-sec-186</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Massive list of purple teaming resources, two new cloud CTFs to practice on, how effective are LLMs at doing secure code reviews?</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-15T14:30:00.000Z">8 days ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #185 - Artisanal to Industrial Security, Securing the EC2 Instance Metadata Service, 12 Threat Modeling Methods</title>
+   <link>https://tldrsec.com/p/tldr-sec-185</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to deliver security at scale, the security properties of IMDSv2, a summary of many threat modeling approaches.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-07T02:30:00.000Z">16 days ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #184 - Public Cloud Security Breaches, OWASP Top 10 for LLMs, Living Off the Orchard: macOS Binaries</title>
+   <link>https://tldrsec.com/p/tldr-sec-184</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Compendium of cloud security incidents and breaches that have affected customers, top risks for software leveraging Large Language Models, a library of macOS binaries that can be used for ‘living off the land’.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-05-31T02:30:00.000Z">23 days ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #183 - The 3 Metrics to Focus On, Build a Purple Team Lab, Damn Vulnerable Android and iOS Apps</title>
+   <link>https://tldrsec.com/p/tldr-sec-183</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">If you can only choose 3 metrics, what to choose? How to build a Kubernetes purple teaming lab, vulnerable Android and iOS apps to learn on.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-05-25T17:00:00.000Z">a month ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #182 - Cloud Native Security Talks, AI Attack Surface Map, Attacking and securing cloud identities in managed Kubernetes</title>
+   <link>https://tldrsec.com/p/tldr-sec-182</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Video playlists and abstracts from CloudNativeSecurityCon and KubeCon, overview of attacking AI assistants and agents, attack vectors to pivot from an EKS cluster to an AWS account.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-05-18T14:30:00.000Z">a month ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #181 - Awesome CloudSec Labs, Red Team Infra in 2023, Privilege Escalation in EKS</title>
+   <link>https://tldrsec.com/p/tldr-sec-181</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Free cloud-native security learning labs, the essential components for modern robust red teaming infra, how to privesc from a compromised EKS pod and defeat Kubernetes NodeRestriction.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-05-11T14:30:00.000Z">a month ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #180 - Scaling AppSec, tl;dr sec Swag 🤯, GCP Pentesting Guide</title>
+   <link>https://tldrsec.com/p/tldr-sec-180</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Riot Games and Segment on Scaling AppSec, help me decide what tl;dr sec swag to make, resources and techniques to do an effective GCP pentest.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-05-04T14:30:00.000Z">2 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #179 - BSidesSF Summaries, Attacking Kubernetes, OpenAI Burp Suite</title>
+   <link>https://tldrsec.com/p/tldr-sec-179</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">I wrote quick summaries of four BSidesSF presentations, common Kubernetes attack vectors and vulnerable lab, Burp Suite extension that uses OpenAI for recon.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-04-27T14:30:00.000Z">2 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #178 - DevOps Threat Matrix, LLMs in Security, Supply Chain Security</title>
+   <link>https://tldrsec.com/p/tldr-sec-178</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Microsoft techniques and attack vectors for DevOps environments, applications of LLMs in security, the deps.dev API and Golang supply chain security.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-04-19T14:30:00.000Z">2 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #177 AWS KMS Threat Model, DOM Invader, Forensics in the Cloud</title>
+   <link>https://tldrsec.com/p/tldr-sec-177</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Threat model and attack tree for AWS Key Management Service, Gareth Heyes on how to use the DOM Invader Burp extension, doing cloud forensics when a container is compromised.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-04-12T14:30:00.000Z">2 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #176 - Cloud Security Atlas, Semgrep + AI, Finding Malicious PyPi packages</title>
+   <link>https://tldrsec.com/p/tldr-sec-176</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">A searchable database of real-world attacks, vulns, and misconfigurations in cloud environments, Semgrep Assistant supports auto-triaging and fix suggestions using GPT-4, overview of malicious PyPi packages in 2023.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-04-05T14:30:00.000Z">3 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #175 The Future of Security Engineering, Awesome Kubernetes Threat Detection, ChatGPT Plugins</title>
+   <link>https://tldrsec.com/p/tldr-sec-175-future-security-engineering-awesome-kubernetes-threat-detection-chatgpt</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">The power of open source, flexible tooling, k8s detection resources, ChatGPT just got a whole lot more powerful.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-29T14:30:00.000Z">3 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #174 - Mitigating SSRF in 2023, Isolation &amp; Container Namespaces, Offensive AI Compilation</title>
+   <link>https://tldrsec.com/p/tldr-sec-174</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">The challenges in mitigating SSRF and the best way to do it, how Linux namespaces provide isolation properties for containers, resources on attacking AI models / using it for offensive purposes.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-22T14:30:00.000Z">3 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #173 - What Software Will Be Post GPT-4, the Cybersecurity Landscape, Reducing Attack Surface in AWS</title>
+   <link>https://tldrsec.com/p/tldr-sec-173</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">The AI-based architecture that’ll replace most existing software, overview of cybersecurity companies and acquisitions, how to lock down instance creds and regions/services in AWS.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-16T14:30:00.000Z">3 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #172 - Career Resources, Machine Learning, Jim Manico Webinar</title>
+   <link>https://tldrsec.com/p/tldr-sec-172</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Certs and getting into security, reinforcement learning for security, join Jim and I&#x27;s webinar on broken access control.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-08T14:30:00.000Z">4 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #171 - AppSec and CloudSec Resilience, Audit Logs Wall of Shame, Compromised Cloud to Kubernetes Takeover</title>
+   <link>https://tldrsec.com/p/tldr-sec-171</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Building an effective AppSec and CloudSec program, vendors that don&#x27;t prioritize high quality audit logs, tactics to go from a compromised cloud resource to taking over a Kubernetes cluster.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-01T14:30:00.000Z">4 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #170 - Prototype Pollution, Fuzzing, SOC Metrics</title>
+   <link>https://tldrsec.com/p/tldr-sec-170</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Black-box prototype pollution without the DoS, fuzzing curl and gaining coverage with LLMs, and useful metrics to build an effective SOC.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-22T14:30:00.000Z">4 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #169 - Top 10 Web Hacking Techniques of 2022, Finding Malicious Dependencies, Fearless CORS</title>
+   <link>https://tldrsec.com/p/tldr-sec-169</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Portswigger released a curated list of awesome web security research from last year, some approaches to finding malicious dependencies + open source tools, a great deep dive into CORS + principles on making a solid CORS middleware library</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-16T14:30:00.000Z">4 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #168 - GCP and Azure Storage Threat Models, macOS Security, Red Team Resources</title>
+   <link>https://tldrsec.com/p/tldr-sec-168</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Detailed threat models for Google Cloud Storage and Azure Storage, Mac malware of 2022 and emerging payload obfuscation techniques, reverse engineering Rust binaries, offensive security and RE course, and more.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-08T14:30:00.000Z">4 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #167 - SBOM, Scaling Security Alert Management, Mitigating RBAC-Based PrivEsc in Kubernetes</title>
+   <link>https://tldrsec.com/p/tldr-sec-167</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Generating SBOMs and evaluating their quality, how Brex manages and automates security alerts at scale, how popular k8s platforms hardened themselves.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-01T14:30:00.000Z">5 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #166 - 2023 Security Predictions, Vuln Hunting with App Server Logs, Enforcing Device AuthN</title>
+   <link>https://tldrsec.com/p/tldr-sec-166</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Predictions for offense, from security leaders, and AWS, high signal vuln finding from application runtime exceptions, how Pinterest enforces managed and compliant devices in their Okta flow.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-01-25T02:30:00.000Z">5 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #165 - Hunting for Malicious Persistence in the Cloud, GitHub Action Security, Dark Sides of Machine Learning</title>
+   <link>https://tldrsec.com/p/tldr-sec-165</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to detect malicious persistence in AWS, GCP, and Azure, leaking GitHub Action secrets and improving OIDC security posture, will ChatGPT degrade communication online?</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-01-18T02:30:00.000Z">5 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #164 - Becoming Phishless, Machine Learning, Memory Safe Languages in Android 13</title>
+   <link>https://tldrsec.com/p/tldr-sec-164</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How a number of companies adopted WebAuthN and/or hard keys, neat new things in ML, the impact of Rust and memory safety in general in Android 13.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-01-11T02:30:00.000Z">5 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title>[tl;dr sec] #163 - Rebuilding Detection and IR at LinkedIn, CVEs and Misaligned Incentives, 2022 in Review and 2023 Predictions</title>
+   <link>https://tldrsec.com/p/tldr-sec-163</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How LinkedIn scaled detection and minimized toil, why ReDoS CVEs are mostly noise, and reflecting on security in 2022 and predicting what 2023 has in store.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-01-04T02:30:00.000Z">6 months ago</time></p>]]></description>
+  </item>
+  <item>
+   <title></title>
+   <link>https://tldrsec.comhttps://twitter.com/clintgibler</link>
+   <description><![CDATA[]]></description>
+  </item>
+  <item>
+   <title></title>
+   <link>https://tldrsec.com/</link>
+   <description><![CDATA[]]></description>
+  </item>
+  <item>
+   <title></title>
+   <link>https://tldrsec.com/c/guides</link>
+   <description><![CDATA[]]></description>
+  </item>
+  <item>
+   <title></title>
+   <link>https://tldrsec.comhttps://www.beehiiv.com/privacy?utm_source=tl;dr sec&amp;utm_medium=footer</link>
+   <description><![CDATA[]]></description>
+  </item>
+  <item>
+   <title></title>
+   <link>https://tldrsec.comhttps://www.beehiiv.com/tou?utm_source=tl;dr sec&amp;utm_medium=footer</link>
+   <description><![CDATA[]]></description>
+  </item>
+  <item>
+   <title></title>
+   <link>https://tldrsec.comhttps://www.beehiiv.com/?utm_source=tl;dr sec&amp;utm_medium=footer</link>
+   <description><![CDATA[]]></description>
+  </item>
+ </channel>
+</rss>
