@@ -7,17 +7,17 @@
   <item>
    <title>[tl;dr sec] #187 - AWS Pentest Methodology, Destroyed by Breach, Awesome LLM Cybersecurity Tools</title>
    <link>https://tldrsec.com/p/tldr-sec-187</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">An offense-focused approach to AWS pentests, companies ended by cybersecurity breaches, OSS security tools leveraging LLMs </p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-22T14:30:00.000Z">6 days ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">An offense-focused approach to AWS pentests, companies ended by cybersecurity breaches, OSS security tools leveraging LLMs </p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-22T14:30:00.000Z">7 days ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #186 - Enterprise Purple Teaming, Cloud CTFs, Code Review with LLMs</title>
    <link>https://tldrsec.com/p/tldr-sec-186</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Massive list of purple teaming resources, two new cloud CTFs to practice on, how effective are LLMs at doing secure code reviews?</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-15T14:30:00.000Z">13 days ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Massive list of purple teaming resources, two new cloud CTFs to practice on, how effective are LLMs at doing secure code reviews?</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-15T14:30:00.000Z">14 days ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #185 - Artisanal to Industrial Security, Securing the EC2 Instance Metadata Service, 12 Threat Modeling Methods</title>
    <link>https://tldrsec.com/p/tldr-sec-185</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to deliver security at scale, the security properties of IMDSv2, a summary of many threat modeling approaches.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-07T02:30:00.000Z">21 days ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to deliver security at scale, the security properties of IMDSv2, a summary of many threat modeling approaches.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-07T02:30:00.000Z">22 days ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #184 - Public Cloud Security Breaches, OWASP Top 10 for LLMs, Living Off the Orchard: macOS Binaries</title>
