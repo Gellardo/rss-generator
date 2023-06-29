@@ -5,19 +5,24 @@
   <link>https://tldrsec.com</link>
   <description><![CDATA[TL;DR Sec does not have an rss feed anymore :(]]></description>
   <item>
+   <title>[tl;dr sec] 188 - Security Interview Questions, Secret Scanning Tools, PentestGPT</title>
+   <link>https://tldrsec.com/p/tldr-sec-188</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Interview questions across a variety of roles, several secret scanning tools, an autonomous pentesting tool using GPT-4</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-29T14:30:00.000Z">7 hours ago</time></p>]]></description>
+  </item>
+  <item>
    <title>[tl;dr sec] #187 - AWS Pentest Methodology, Destroyed by Breach, Awesome LLM Cybersecurity Tools</title>
    <link>https://tldrsec.com/p/tldr-sec-187</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">An offense-focused approach to AWS pentests, companies ended by cybersecurity breaches, OSS security tools leveraging LLMs </p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-22T14:30:00.000Z">7 days ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">An offense-focused approach to AWS pentests, companies ended by cybersecurity breaches, OSS security tools leveraging LLMs </p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-22T14:30:00.000Z"></time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #186 - Enterprise Purple Teaming, Cloud CTFs, Code Review with LLMs</title>
    <link>https://tldrsec.com/p/tldr-sec-186</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Massive list of purple teaming resources, two new cloud CTFs to practice on, how effective are LLMs at doing secure code reviews?</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-15T14:30:00.000Z">14 days ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Massive list of purple teaming resources, two new cloud CTFs to practice on, how effective are LLMs at doing secure code reviews?</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-15T14:30:00.000Z"></time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #185 - Artisanal to Industrial Security, Securing the EC2 Instance Metadata Service, 12 Threat Modeling Methods</title>
    <link>https://tldrsec.com/p/tldr-sec-185</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to deliver security at scale, the security properties of IMDSv2, a summary of many threat modeling approaches.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-07T02:30:00.000Z">22 days ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to deliver security at scale, the security properties of IMDSv2, a summary of many threat modeling approaches.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-07T02:30:00.000Z"></time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #184 - Public Cloud Security Breaches, OWASP Top 10 for LLMs, Living Off the Orchard: macOS Binaries</title>
@@ -123,11 +128,6 @@
    <title>[tl;dr sec] #164 - Becoming Phishless, Machine Learning, Memory Safe Languages in Android 13</title>
    <link>https://tldrsec.com/p/tldr-sec-164</link>
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How a number of companies adopted WebAuthN and/or hard keys, neat new things in ML, the impact of Rust and memory safety in general in Android 13.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-01-11T02:30:00.000Z">6 months ago</time></p>]]></description>
-  </item>
-  <item>
-   <title>[tl;dr sec] #163 - Rebuilding Detection and IR at LinkedIn, CVEs and Misaligned Incentives, 2022 in Review and 2023 Predictions</title>
-   <link>https://tldrsec.com/p/tldr-sec-163</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How LinkedIn scaled detection and minimized toil, why ReDoS CVEs are mostly noise, and reflecting on security in 2022 and predicting what 2023 has in store.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-01-04T02:30:00.000Z">6 months ago</time></p>]]></description>
   </item>
   <item>
    <title></title>
