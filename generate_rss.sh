@@ -10,15 +10,15 @@ sha256sum -c <<<"e043624cfa0005559d0a37d697af7c00fd7e9388cac70aa3329748b48e38ff0
 chmod +x mkfeed.py
 patch <mkfeed.py.patch
 
-URL="https://www.backerkit.com/c/greater-than-games/spirit-island-nature-incarnate/updates#top"
+URL="https://www.backerkit.com/c/greater-than-games/spirit-island-nature-incarnate/community?filter=Crowdfunding%3A%3AProjectUpdate"
 curl $URL | ./mkfeed.py \
-    --pattern-item '<div class="relative">{*}<a{*}href="{%}"{*}>{*}<div class="flex-auto ">{%}</div>' \
+    --pattern-item '<div id="body" {*}>{*}<a{*}href="{%}"{*}>{%}</a>{*}<div class="trix-content">{%}</div>' \
     --feed-title 'Nature Incarnate' \
     --feed-link "$URL" \
     --feed-desc 'Spirit Island Nature Incarnate Updates' \
     --item-title '{%2}' \
     --item-link "$(cut -d/ -f1,2,3 <<<"$URL"){%1}" \
-    --item-desc '{%2}' >"$OUTDIR"/nature-incarnate.rss
+    --item-desc '{%3}' >"$OUTDIR"/nature-incarnate.rss
 
 URL="https://tldrsec.com"
 curl "$URL" | ./mkfeed.py \
