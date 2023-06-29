@@ -12,7 +12,7 @@ patch <mkfeed.py.patch
 
 URL="https://www.backerkit.com/c/greater-than-games/spirit-island-nature-incarnate/community?filter=Crowdfunding%3A%3AProjectUpdate"
 curl $URL | ./mkfeed.py \
-    --pattern-item '<div id="body" {*}>{*}<a{*}href="{%}"{*}>{%}</a>{*}<div class="trix-content">{%}</div>' \
+    --pattern-item '<div id="body" {*}>{*}<a{*}href="{%}"{*}>{*}<p{*}>{%}</p>{*}</a>{*}<div class="trix-content">{%}</div>' \
     --feed-title 'Nature Incarnate' \
     --feed-link "$URL" \
     --feed-desc 'Spirit Island Nature Incarnate Updates' \
@@ -30,7 +30,7 @@ curl "$URL" | ./mkfeed.py \
     --item-title '{%2}' \
     --item-link "$(cut -d/ -f1,2,3 <<<"$URL"){%1}" \
     --item-desc '{%3}' >"$OUTDIR"/tldr.rss
-sed -i 's/[0-9a]\+ days\? ago//' "$OUTDIR"/tldr.rss # remove constantly updated value
+sed -i 's/[0-9an]\+ \(hour\|day\)s\? ago//' "$OUTDIR"/tldr.rss # remove constantly updated value
 
 # look for the first title tag in each rss file
 # then generate <li> for the index.html
