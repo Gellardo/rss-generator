@@ -30,6 +30,7 @@ curl "$URL" | ./mkfeed.py \
     --item-title '{%2}' \
     --item-link "$(cut -d/ -f1,2,3 <<<"$URL"){%1}" \
     --item-desc '{%3}' >"$OUTDIR"/tldr.rss
+sed -i 's/[0-9a]\+ days\? ago//' out/tldr.rss # remove constantly updated value
 
 # look for the first title tag in each rss file
 # then generate <li> for the index.html
