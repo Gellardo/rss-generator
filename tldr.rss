@@ -82,7 +82,7 @@
   <item>
    <title>[tl;dr sec] #173 - What Software Will Be Post GPT-4, the Cybersecurity Landscape, Reducing Attack Surface in AWS</title>
    <link>https://tldrsec.com/p/tldr-sec-173</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">The AI-based architecture that’ll replace most existing software, overview of cybersecurity companies and acquisitions, how to lock down instance creds and regions/services in AWS.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-16T14:30:00.000Z">3 months ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">The AI-based architecture that’ll replace most existing software, overview of cybersecurity companies and acquisitions, how to lock down instance creds and regions/services in AWS.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-16T14:30:00.000Z">4 months ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #172 - Career Resources, Machine Learning, Jim Manico Webinar</title>
@@ -102,7 +102,7 @@
   <item>
    <title>[tl;dr sec] #169 - Top 10 Web Hacking Techniques of 2022, Finding Malicious Dependencies, Fearless CORS</title>
    <link>https://tldrsec.com/p/tldr-sec-169</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Portswigger released a curated list of awesome web security research from last year, some approaches to finding malicious dependencies + open source tools, a great deep dive into CORS + principles on making a solid CORS middleware library</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-16T14:30:00.000Z">4 months ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Portswigger released a curated list of awesome web security research from last year, some approaches to finding malicious dependencies + open source tools, a great deep dive into CORS + principles on making a solid CORS middleware library</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-16T14:30:00.000Z">5 months ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #168 - GCP and Azure Storage Threat Models, macOS Security, Red Team Resources</title>
