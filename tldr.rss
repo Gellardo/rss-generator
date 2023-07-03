@@ -22,7 +22,7 @@
   <item>
    <title>[tl;dr sec] #185 - Artisanal to Industrial Security, Securing the EC2 Instance Metadata Service, 12 Threat Modeling Methods</title>
    <link>https://tldrsec.com/p/tldr-sec-185</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to deliver security at scale, the security properties of IMDSv2, a summary of many threat modeling approaches.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-07T02:30:00.000Z"></time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to deliver security at scale, the security properties of IMDSv2, a summary of many threat modeling approaches.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-07T02:30:00.000Z">a month ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #184 - Public Cloud Security Breaches, OWASP Top 10 for LLMs, Living Off the Orchard: macOS Binaries</title>
@@ -122,7 +122,7 @@
   <item>
    <title>[tl;dr sec] #165 - Hunting for Malicious Persistence in the Cloud, GitHub Action Security, Dark Sides of Machine Learning</title>
    <link>https://tldrsec.com/p/tldr-sec-165</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to detect malicious persistence in AWS, GCP, and Azure, leaking GitHub Action secrets and improving OIDC security posture, will ChatGPT degrade communication online?</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-01-18T02:30:00.000Z">5 months ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to detect malicious persistence in AWS, GCP, and Azure, leaking GitHub Action secrets and improving OIDC security posture, will ChatGPT degrade communication online?</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-01-18T02:30:00.000Z">6 months ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #164 - Becoming Phishless, Machine Learning, Memory Safe Languages in Android 13</title>
