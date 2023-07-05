@@ -5,6 +5,11 @@
   <link>https://tldrsec.com</link>
   <description><![CDATA[TL;DR Sec does not have an rss feed anymore :(]]></description>
   <item>
+   <title>AI and Machine Learning in Cybersecurity</title>
+   <link>https://tldrsec.com/p/ai-machine-learning-cybersecurity</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">An overview of current applications of AI/ML to cybersecurity with relevant links and a vision of where things are headed.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-07-05T07:33:12.827Z"></time></p>]]></description>
+  </item>
+  <item>
    <title>Cache Me If You Can: Messing with Web Caching</title>
    <link>https://tldrsec.com/p/appsec-cache-me-if-you-can-messing-with-web-caching-ae8c</link>
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">In this talk, Louis covers 3 web cache related attacks: cache deception, edge side includes, and cache poisoning.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-07-03T22:39:30.680Z"></time></p>]]></description>
@@ -62,7 +67,7 @@
   <item>
    <title>[tl;dr sec] #178 - DevOps Threat Matrix, LLMs in Security, Supply Chain Security</title>
    <link>https://tldrsec.com/p/tldr-sec-178</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Microsoft techniques and attack vectors for DevOps environments, applications of LLMs in security, the deps.dev API and Golang supply chain security.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-04-19T14:30:00.000Z">2 months ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Microsoft techniques and attack vectors for DevOps environments, applications of LLMs in security, the deps.dev API and Golang supply chain security.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-04-19T14:30:00.000Z">3 months ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #177 AWS KMS Threat Model, DOM Invader, Forensics in the Cloud</title>
@@ -123,11 +128,6 @@
    <title>[tl;dr sec] #166 - 2023 Security Predictions, Vuln Hunting with App Server Logs, Enforcing Device AuthN</title>
    <link>https://tldrsec.com/p/tldr-sec-166</link>
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Predictions for offense, from security leaders, and AWS, high signal vuln finding from application runtime exceptions, how Pinterest enforces managed and compliant devices in their Okta flow.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-01-25T02:30:00.000Z">5 months ago</time></p>]]></description>
-  </item>
-  <item>
-   <title>[tl;dr sec] #165 - Hunting for Malicious Persistence in the Cloud, GitHub Action Security, Dark Sides of Machine Learning</title>
-   <link>https://tldrsec.com/p/tldr-sec-165</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to detect malicious persistence in AWS, GCP, and Azure, leaking GitHub Action secrets and improving OIDC security posture, will ChatGPT degrade communication online?</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-01-18T02:30:00.000Z">6 months ago</time></p>]]></description>
   </item>
   <item>
    <title></title>
