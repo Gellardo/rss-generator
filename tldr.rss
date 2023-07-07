@@ -5,6 +5,11 @@
   <link>https://tldrsec.com</link>
   <description><![CDATA[TL;DR Sec does not have an rss feed anymore :(]]></description>
   <item>
+   <title>[tl;dr sec] #189 - CISA on Defending CI/CD, Backdooring NPM via S3, AI + Reverse Engineering</title>
+   <link>https://tldrsec.com/p/tldr-sec-189</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">CISA/NSA&#x27;s guide on defending cloud CI/CD, backdooring NPM modules depending on binaries in S3, I&#x27;m collecting AI + cybersecurity resources</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-07-06T14:30:00.000Z"></time></p>]]></description>
+  </item>
+  <item>
    <title>AI and Machine Learning in Cybersecurity</title>
    <link>https://tldrsec.com/p/ai-machine-learning-cybersecurity</link>
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">An overview of current applications of AI/ML to cybersecurity with relevant links and a vision of where things are headed.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-07-05T07:33:12.827Z"></time></p>]]></description>
@@ -123,11 +128,6 @@
    <title>[tl;dr sec] #167 - SBOM, Scaling Security Alert Management, Mitigating RBAC-Based PrivEsc in Kubernetes</title>
    <link>https://tldrsec.com/p/tldr-sec-167</link>
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Generating SBOMs and evaluating their quality, how Brex manages and automates security alerts at scale, how popular k8s platforms hardened themselves.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-01T14:30:00.000Z">5 months ago</time></p>]]></description>
-  </item>
-  <item>
-   <title>[tl;dr sec] #166 - 2023 Security Predictions, Vuln Hunting with App Server Logs, Enforcing Device AuthN</title>
-   <link>https://tldrsec.com/p/tldr-sec-166</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Predictions for offense, from security leaders, and AWS, high signal vuln finding from application runtime exceptions, how Pinterest enforces managed and compliant devices in their Okta flow.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-01-25T02:30:00.000Z">5 months ago</time></p>]]></description>
   </item>
   <item>
    <title></title>
