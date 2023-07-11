@@ -5,6 +5,11 @@
   <link>https://tldrsec.com</link>
   <description><![CDATA[TL;DR Sec does not have an rss feed anymore :(]]></description>
   <item>
+   <title>How to securely build product features using AI APIs </title>
+   <link>https://tldrsec.com/p/securely-build-product-ai-machine-learning</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">A Practitioner’s Guide to Consuming AI</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Rami McCarthy</span><span> / </span><time datetime="2023-07-11T05:22:19.134Z"></time></p>]]></description>
+  </item>
+  <item>
    <title>[tl;dr sec] #189 - CISA on Defending CI/CD, Backdooring NPM via S3, AI + Reverse Engineering</title>
    <link>https://tldrsec.com/p/tldr-sec-189</link>
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">CISA/NSA&#x27;s guide on defending cloud CI/CD, backdooring NPM modules depending on binaries in S3, I&#x27;m collecting AI + cybersecurity resources</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-07-06T14:30:00.000Z"></time></p>]]></description>
@@ -32,7 +37,7 @@
   <item>
    <title>[tl;dr sec] #186 - Enterprise Purple Teaming, Cloud CTFs, Code Review with LLMs</title>
    <link>https://tldrsec.com/p/tldr-sec-186</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Massive list of purple teaming resources, two new cloud CTFs to practice on, how effective are LLMs at doing secure code reviews?</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-15T14:30:00.000Z"></time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Massive list of purple teaming resources, two new cloud CTFs to practice on, how effective are LLMs at doing secure code reviews?</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-06-15T14:30:00.000Z">a month ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #185 - Artisanal to Industrial Security, Securing the EC2 Instance Metadata Service, 12 Threat Modeling Methods</title>
@@ -47,7 +52,7 @@
   <item>
    <title>[tl;dr sec] #183 - The 3 Metrics to Focus On, Build a Purple Team Lab, Damn Vulnerable Android and iOS Apps</title>
    <link>https://tldrsec.com/p/tldr-sec-183</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">If you can only choose 3 metrics, what to choose? How to build a Kubernetes purple teaming lab, vulnerable Android and iOS apps to learn on.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-05-25T17:00:00.000Z">a month ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">If you can only choose 3 metrics, what to choose? How to build a Kubernetes purple teaming lab, vulnerable Android and iOS apps to learn on.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-05-25T17:00:00.000Z">2 months ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #182 - Cloud Native Security Talks, AI Attack Surface Map, Attacking and securing cloud identities in managed Kubernetes</title>
@@ -123,11 +128,6 @@
    <title>[tl;dr sec] #168 - GCP and Azure Storage Threat Models, macOS Security, Red Team Resources</title>
    <link>https://tldrsec.com/p/tldr-sec-168</link>
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Detailed threat models for Google Cloud Storage and Azure Storage, Mac malware of 2022 and emerging payload obfuscation techniques, reverse engineering Rust binaries, offensive security and RE course, and more.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-08T14:30:00.000Z">5 months ago</time></p>]]></description>
-  </item>
-  <item>
-   <title>[tl;dr sec] #167 - SBOM, Scaling Security Alert Management, Mitigating RBAC-Based PrivEsc in Kubernetes</title>
-   <link>https://tldrsec.com/p/tldr-sec-167</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Generating SBOMs and evaluating their quality, how Brex manages and automates security alerts at scale, how popular k8s platforms hardened themselves.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-01T14:30:00.000Z">5 months ago</time></p>]]></description>
   </item>
   <item>
    <title></title>
