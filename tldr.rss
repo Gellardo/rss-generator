@@ -72,7 +72,7 @@
   <item>
    <title>[tl;dr sec] #179 - BSidesSF Summaries, Attacking Kubernetes, OpenAI Burp Suite</title>
    <link>https://tldrsec.com/p/tldr-sec-179</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">I wrote quick summaries of four BSidesSF presentations, common Kubernetes attack vectors and vulnerable lab, Burp Suite extension that uses OpenAI for recon.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-04-27T14:30:00.000Z">2 months ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">I wrote quick summaries of four BSidesSF presentations, common Kubernetes attack vectors and vulnerable lab, Burp Suite extension that uses OpenAI for recon.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-04-27T14:30:00.000Z">3 months ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #178 - DevOps Threat Matrix, LLMs in Security, Supply Chain Security</title>
