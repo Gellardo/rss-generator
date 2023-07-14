@@ -5,6 +5,11 @@
   <link>https://tldrsec.com</link>
   <description><![CDATA[TL;DR Sec does not have an rss feed anymore :(]]></description>
   <item>
+   <title>[tl;dr sec] #190 - Securely Build on AI, CISA Pen Test repo, Joining Google&#x27;s Red Team</title>
+   <link>https://tldrsec.com/p/tldr-sec-190</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">How to secure product features that leverage AI, CISA&#x27;s repo of example penetration testing findings, how to join Google&#x27;s red team and other career resources </p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-07-13T14:30:00.000Z"></time></p>]]></description>
+  </item>
+  <item>
    <title>How to securely build product features using AI APIs </title>
    <link>https://tldrsec.com/p/securely-build-product-ai-machine-learning</link>
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">A Practitioner’s Guide to Consuming AI</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Rami McCarthy</span><span> / </span><time datetime="2023-07-11T05:22:19.134Z"></time></p>]]></description>
@@ -123,11 +128,6 @@
    <title>[tl;dr sec] #169 - Top 10 Web Hacking Techniques of 2022, Finding Malicious Dependencies, Fearless CORS</title>
    <link>https://tldrsec.com/p/tldr-sec-169</link>
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Portswigger released a curated list of awesome web security research from last year, some approaches to finding malicious dependencies + open source tools, a great deep dive into CORS + principles on making a solid CORS middleware library</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-16T14:30:00.000Z">5 months ago</time></p>]]></description>
-  </item>
-  <item>
-   <title>[tl;dr sec] #168 - GCP and Azure Storage Threat Models, macOS Security, Red Team Resources</title>
-   <link>https://tldrsec.com/p/tldr-sec-168</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Detailed threat models for Google Cloud Storage and Azure Storage, Mac malware of 2022 and emerging payload obfuscation techniques, reverse engineering Rust binaries, offensive security and RE course, and more.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-08T14:30:00.000Z">5 months ago</time></p>]]></description>
   </item>
   <item>
    <title></title>
