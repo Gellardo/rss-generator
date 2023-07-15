@@ -97,7 +97,7 @@
   <item>
    <title>[tl;dr sec] #175 The Future of Security Engineering, Awesome Kubernetes Threat Detection, ChatGPT Plugins</title>
    <link>https://tldrsec.com/p/tldr-sec-175-future-security-engineering-awesome-kubernetes-threat-detection-chatgpt</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">The power of open source, flexible tooling, k8s detection resources, ChatGPT just got a whole lot more powerful.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-29T14:30:00.000Z">3 months ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">The power of open source, flexible tooling, k8s detection resources, ChatGPT just got a whole lot more powerful.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-29T14:30:00.000Z">4 months ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #174 - Mitigating SSRF in 2023, Isolation &amp; Container Namespaces, Offensive AI Compilation</title>
