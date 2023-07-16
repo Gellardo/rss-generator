@@ -52,7 +52,7 @@
   <item>
    <title>[tl;dr sec] #184 - Public Cloud Security Breaches, OWASP Top 10 for LLMs, Living Off the Orchard: macOS Binaries</title>
    <link>https://tldrsec.com/p/tldr-sec-184</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Compendium of cloud security incidents and breaches that have affected customers, top risks for software leveraging Large Language Models, a library of macOS binaries that can be used for ‘living off the land’.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-05-31T02:30:00.000Z">a month ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Compendium of cloud security incidents and breaches that have affected customers, top risks for software leveraging Large Language Models, a library of macOS binaries that can be used for ‘living off the land’.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-05-31T02:30:00.000Z">2 months ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #183 - The 3 Metrics to Focus On, Build a Purple Team Lab, Damn Vulnerable Android and iOS Apps</title>
@@ -117,7 +117,7 @@
   <item>
    <title>[tl;dr sec] #171 - AppSec and CloudSec Resilience, Audit Logs Wall of Shame, Compromised Cloud to Kubernetes Takeover</title>
    <link>https://tldrsec.com/p/tldr-sec-171</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Building an effective AppSec and CloudSec program, vendors that don&#x27;t prioritize high quality audit logs, tactics to go from a compromised cloud resource to taking over a Kubernetes cluster.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-01T14:30:00.000Z">4 months ago</time></p>]]></description>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Building an effective AppSec and CloudSec program, vendors that don&#x27;t prioritize high quality audit logs, tactics to go from a compromised cloud resource to taking over a Kubernetes cluster.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-01T14:30:00.000Z">5 months ago</time></p>]]></description>
   </item>
   <item>
    <title>[tl;dr sec] #170 - Prototype Pollution, Fuzzing, SOC Metrics</title>
