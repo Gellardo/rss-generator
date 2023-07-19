@@ -105,6 +105,11 @@
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">The challenges in mitigating SSRF and the best way to do it, how Linux namespaces provide isolation properties for containers, resources on attacking AI models / using it for offensive purposes.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-22T14:30:00.000Z">4 months ago</time></p>]]></description>
   </item>
   <item>
+   <title>[tl;dr sec] #27 - AppSec Weekly, SOC2 Starting Seven, Save Encryption</title>
+   <link>https://tldrsec.com/p/tldr-sec-27</link>
+   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">I was on Application Security Weekly #100, a no-nonsense guide to becoming SOC2 compliant, fight a bill that may kill encryption, compensation resources.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-18T14:30:00.000Z">4 months ago</time></p>]]></description>
+  </item>
+  <item>
    <title>[tl;dr sec] #173 - What Software Will Be Post GPT-4, the Cybersecurity Landscape, Reducing Attack Surface in AWS</title>
    <link>https://tldrsec.com/p/tldr-sec-173</link>
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">The AI-based architecture that’ll replace most existing software, overview of cybersecurity companies and acquisitions, how to lock down instance creds and regions/services in AWS.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-03-16T14:30:00.000Z">4 months ago</time></p>]]></description>
@@ -123,11 +128,6 @@
    <title>[tl;dr sec] #170 - Prototype Pollution, Fuzzing, SOC Metrics</title>
    <link>https://tldrsec.com/p/tldr-sec-170</link>
    <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Black-box prototype pollution without the DoS, fuzzing curl and gaining coverage with LLMs, and useful metrics to build an effective SOC.</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-22T14:30:00.000Z">5 months ago</time></p>]]></description>
-  </item>
-  <item>
-   <title>[tl;dr sec] #169 - Top 10 Web Hacking Techniques of 2022, Finding Malicious Dependencies, Fearless CORS</title>
-   <link>https://tldrsec.com/p/tldr-sec-169</link>
-   <description><![CDATA[<p class="font-regular mb-2 opacity-75 wt-header-font line-clamp-4 text-wt-text-on-background text-md sm:text-lg font-regular">Portswigger released a curated list of awesome web security research from last year, some approaches to finding malicious dependencies + open source tools, a great deep dive into CORS + principles on making a solid CORS middleware library</p><p class="mb-4 no-underline opacity-75 wt-header-font text-wt-text-on-background text-xs sm:text-sm font-regular"><span>Clint Gibler</span><span> / </span><time datetime="2023-02-16T14:30:00.000Z">5 months ago</time></p>]]></description>
   </item>
   <item>
    <title></title>
