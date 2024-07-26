@@ -16,28 +16,16 @@ clean_rss() {
     sed -i 's/[0-9a-zA-Z]\{20,\}/hex-string/' "$file"
 }
 
-URL="https://www.backerkit.com/c/greater-than-games/spirit-island-nature-incarnate/community?filter=Crowdfunding%3A%3AProjectUpdate"
-curl $URL | ./mkfeed.py \
-    --pattern-item '<div id="body" {*}>{*}<a{*}href="{%}"{*}>{*}<p{*}>{%}</p>{*}</a>{*}<div class="trix-content">{%}</div>' \
-    --feed-title 'Nature Incarnate' \
+URL=https://archiveofourown.org/works/37432549
+curl "$URL" -L | ./mkfeed.py \
+    --pattern-item '<option {*}value="{%}"{*}>{%}</option>' \
+    --feed-title 'Borne of Desire' \
     --feed-link "$URL" \
-    --feed-desc 'Spirit Island Nature Incarnate Updates' \
+    --feed-desc "" \
     --item-title '{%2}' \
-    --item-link "$(cut -d/ -f1,2,3 <<<"$URL"){%1}" \
-    --item-desc '{%3}' >"$OUTDIR"/nature-incarnate.rss
-clean_rss "$OUTDIR"/nature-incarnate.rss
-
-URL="https://tldrsec.com"
-curl "$URL" | ./mkfeed.py \
-    --pattern-main '<div class="col-span-12 w-full lg:col-span-9">{%}' \
-    --pattern-item '<a{*}href="{%}"{*}>{*}<div{*}><h2 {*}>{%}</h2>{%}</div>' \
-    --feed-title 'TL;DR Sec' \
-    --feed-link "$URL" \
-    --feed-desc 'TL;DR Sec does not have an rss feed anymore :(' \
-    --item-title '{%2}' \
-    --item-link "$(cut -d/ -f1,2,3 <<<"$URL"){%1}" \
-    --item-desc '{%3}' >"$OUTDIR"/tldr.rss
-clean_rss "$OUTDIR"/tldr.rss # remove constantly updated value
+    --item-link "$URL/chapters/"'{%1}' \
+    --item-desc "" \
+    >"$OUTDIR"/pokemon-bod.rss
 
 # look for the first title tag in each rss file
 # then generate <li> for the index.html
