@@ -3,7 +3,7 @@
 set -euo pipefail
 
 OUTDIR=${1:?missing parameter outdir}
-mkdir -p $OUTDIR
+mkdir -p "$OUTDIR"
 
 curl -o mkfeed.py "https://raw.githubusercontent.com/dburic/mkfeed/master/mkfeed.py"
 sha256sum -c <<<"96612dbe0c2c3a6b8b8a409846b621bf129aeb1d9b8155a7ca3ed3e755f0246b  mkfeed.py"
